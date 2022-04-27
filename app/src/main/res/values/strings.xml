@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dog Shelter Management</string>
+    <string name="addButton">lala</string>
+    <string name="dog_name">Dog Name</string>
+    <string name="dog_breed">Dog Breed</string>
+    <string name="dog_age">Dog Age</string>
+    <string name="add">Add</string>
+</resources>
